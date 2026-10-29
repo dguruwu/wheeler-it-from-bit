@@ -15,12 +15,12 @@ print; quoted at one remove via the fetched rendering this session]:
 - Zeilinger A. "Why the quantum? 'It' from 'bit'? A participatory universe? Three
   far-reaching challenges from John." In *Science and Ultimate Reality* (2004), p. 201
   [cited at one remove].
-- *Wheeler's It from Bit Proposal in Loop Quantum Gravity* — arXiv:1905.02611: "As an
+- *Wheeler's It from Bit Proposal in Loop Quantum Gravity* — [arXiv:1905.02611](https://arxiv.org/abs/1905.02611): "As an
   attempt to realize Wheeler's 'it-from-bit proposal' that physics should be reduced to
   simple yes-no questions we consider a model of loop quantum gravity, where the only
   allowed values of the quantum numbers at the punctures of the spin network... are 0
   and 1/2."
-- *Is Bit It? On the Theme of Wheeler's It From Bit* — arXiv:1910.13280.
+- *Is Bit It? On the Theme of Wheeler's It From Bit* — [arXiv:1910.13280](https://arxiv.org/abs/1910.13280).
 - The FQXi volume *It From Bit or Bit From It?* (Aguirre, Foster, Merali eds., 2015).
 
 Fetched 2026-10-28 (arXiv API; primary essay at one remove as priced above). Our
